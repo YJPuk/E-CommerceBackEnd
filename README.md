@@ -1,5 +1,39 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
+<hr>
+
+# Walkthrough Video link: 
+
+Walkthrough-CLI Schema, seed and start
+https://drive.google.com/file/d/1FYCqT0moKizDXIhZ1dIpG98qH7NoVlhj/view?usp=sharing
+
+Walkthrough-GET, POST, PUT, DELETE routes for categories products and tags tested in Insomnia
+https://drive.google.com/file/d/1ypIvVvRqcfIKBeBotchZQ7fJSQvX2AoF/view?usp=sharing
+
+# Walkthrough Gif (Shows walkthrough functionality and test):
+![User Inputs via CLI.](./Assets/walkthrough1.gif)
+![User Inputs via Insomnia.](./Assets/walkthrough2.gif)
+
+<hr>
+
+Description
+
+As coding student I'm trying to create a simple E-commerce backend based on some starter code to match the Acceptance Criteria listed in the task below. 
+
+The E-Commerce Back End includes
+<h4>&#x2022; An env file with MYSQL username and password which has been gitignored </h4> 
+<h4>&#x2022; A database which I connected to using Sequalise and Schema and Seed commands have been entered </h4> 
+<h4>&#x2022; A development databased created and seeded with test data </h4> 
+<h4>&#x2022; A server is started and the Sequelize models are synced to the MySQL database </h4> 
+<h4>&#x2022; Using Insomnia you can open API GET routes for categories, products, or tags whether specific or all. </h4>
+<h4>&#x2022; The data for the routes for displayed in a formatted JSON </h4>
+<h4>&#x2022; You are able to test API POST, PUT, and DELETE routes in Insomnia to create, update, and delete data in my database</h4>
+
+This was built using Express.js, Sequelize and mySQL2 and love.
+
+<hr>
+
+
 ## Your Task
 
 Internet retail, also known as **e-commerce**, plays a significant role within the electronics industry, as it empowers businesses and consumers alike to conveniently engage in online buying and selling of electronic products. In the latest available data from 2021, the industry in the United States alone was estimated to have generated the substantial amount of US$2.54 trillion, according to the United Nations Conference on Trade and Development. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
